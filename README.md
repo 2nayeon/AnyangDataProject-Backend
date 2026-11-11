@@ -106,6 +106,10 @@ Google/Naver 소셜 로그인 ─┴→ JWT 발급 → 요청마다 JwtAuthentic
 - Swagger(OpenAPI) 설정과 JWT 인증 버튼 추가로 프론트엔드와 API 명세 공유
 - 신고 API를 인증 필수로 변경하고, 응답의 enum 값 형식을 요청/DB와 일치시켜 프론트엔드 연동 오류 해결
 
+## 시연 영상
+
+[![AIROAD 시연 영상](https://img.youtube.com/vi/93CyoxzQWAk/hqdefault.jpg)](https://www.youtube.com/watch?v=93CyoxzQWAk)
+
 ## 화면
 
 | 관리자 대시보드 | 점검 우선순위 |
